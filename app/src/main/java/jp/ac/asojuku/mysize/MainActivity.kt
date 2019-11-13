@@ -10,7 +10,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
     /*pushの練習コメント*/
     /*コミットアンドプッシュの練習コメント*/
-//a
+//PULL リモートno反映練習
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
